@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I’m working for iOS App since 2018. maintain, I used Swift / Objective-C.
+- I’m living in ShangHai(China)
+- Contact me by: 📫 hytaoist@foxmail.com
