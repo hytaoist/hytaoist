@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Java Backend Engineer · iOS Developer · Independent Product Builder
+## Independent Product Builder
 
 - Location: Shanghai, China
 - Current status: Building independent software products with AI-assisted workflows
